@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![hero](ss/600x200.jpg)
+<img src="ss/600x200.jpg" width="100">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maadelka&theme=radical)
 
