@@ -9,3 +9,4 @@ contact me : coming soon
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maadelka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=your-github-Maadelka&label=PROFILE+VIEWS)
