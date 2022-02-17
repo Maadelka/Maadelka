@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Andhika
+### Hi there 👋 My name is Dhika
 this is all just a hobby, so that's it, even so don't doubt my skills :v
 <br>
 <br>
