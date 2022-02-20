@@ -6,7 +6,9 @@ this is all just a hobby, so that's it, even so don't doubt my skills :v
 contact me : coming soon
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maadelka&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maadelka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maadelka&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maadelka&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maadelka&theme=tokyonight)
 
 
 
