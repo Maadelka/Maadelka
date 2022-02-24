@@ -20,5 +20,3 @@ contact me : coming soon
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maadelka&theme=tokyonight)
   
 </div>
-
-
