@@ -3,7 +3,7 @@
 this is all just a hobby, so that's it, even so don't doubt my skills :v
 <br>
 
-![Alt text](ss/svg.gif?raw=true "Hello world!")
+![Alt text](ss/svg.gif?raw=true "write!")
 contact me : coming soon
 <br>
 
@@ -22,3 +22,5 @@ contact me : coming soon
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maadelka&theme=tokyonight)
   
 </div>
+
+![Alt text](ss/600x200.jpg.gif?raw=true "Hello world!")
