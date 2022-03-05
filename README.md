@@ -2,6 +2,9 @@
 ## Hi there 👋 My name is Andhika
 this is all just a hobby, so that's it, even so don't doubt my skills :v
 <br>
+
+![Alt text](ss/svg.gif?raw=true "night")
+
 <br>
 contact me : coming soon
 <br>
