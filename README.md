@@ -23,4 +23,4 @@ contact me : coming soon
   
 </div>
 
-![Alt text](ss/600x200.jpg.gif?raw=true "Hello world!")
+![Alt text](ss/600x200.jpg?raw=true "Hello world!")
