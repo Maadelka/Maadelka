@@ -6,7 +6,7 @@ this is all just a hobby, so that's it, even so don't doubt my skills :v
 <br>
 
 <ul>Contact :
-  <li>wa : 082285878805</li>  
+  <li>comming soon</li>  
 </ul>
 
 <br>
