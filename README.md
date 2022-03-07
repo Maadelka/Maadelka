@@ -7,7 +7,7 @@ this is all just a hobby, so that's it, even so don't doubt my skills :v
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix-ma&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 contact me : coming soon
 <br>
