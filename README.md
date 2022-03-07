@@ -4,7 +4,11 @@ this is all just a hobby, so that's it, even so don't doubt my skills :v
 
 ![Alt text](ss/svg.gif?raw=true "Hello world!")
 <br>
-contact me : coming soon
+
+<ul>Contact :
+  <li>wa : 082285878805</li>  
+</ul>
+
 <br>
 
 <div align="center" >
