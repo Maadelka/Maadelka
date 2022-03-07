@@ -4,6 +4,9 @@ this is all just a hobby, so that's it, even so don't doubt my skills :v
 <br>
 
 ![Alt text](ss/svg.gif?raw=true "Hello world!")
+
+https://github-profile-trophy.vercel.app/?Maadelka=ryo-ma&theme=matrix
+
 contact me : coming soon
 <br>
 
