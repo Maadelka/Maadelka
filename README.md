@@ -5,6 +5,8 @@ this is all just a hobby, so that's it, even so don't doubt my skills :v
 
 ![Alt text](ss/svg.gif?raw=true "Hello world!")
 
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 contact me : coming soon
